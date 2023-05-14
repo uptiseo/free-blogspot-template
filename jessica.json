@@ -4,7 +4,6 @@
 			"product": {
 				"id": "111",
 				"name": "https://www.google.com/url?q=https://",
-				"shortDescription": "<p>Mans best friend</p>",
 				"category": "Canine",
 				"availability": "In Stock",
 				"variationType": {
@@ -18,7 +17,6 @@
 			"product": {
 				"id": "112",
 				"name": "https://www.google.com/url?q=https://",
-				"shortDescription": "<p>Not so best friend</p>",
 				"category": "feline",
 				"availability": "Low In Stock",
 				"variationType": {
@@ -32,7 +30,6 @@
 			"product": {
 				"id": "113",
 				"name": "https://maps.google.com/url?q=https://",
-				"shortDescription": "Likes carrots",
 				"category": "cuniculus",
 				"availability": "In Stock"
 			},
