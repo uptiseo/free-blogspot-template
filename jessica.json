@@ -2,21 +2,21 @@
 "basket": {
 		"productList": [{
 			"product": {
-				"id": "111",
+				"id": "1",
 				"name": "Dog",
 			},
 			"quantity": 1,
 			"price": "$53.00"
 		}, {
 			"product": {
-				"id": "112",
+				"id": "2",
 				"name": "Dog",
 			},
 			"quantity": 1,
 			"price": "$49.00"
 		}, {
 			"product": {
-				"id": "113",
+				"id": "3",
 				"name": "Rabbit",
 			},
 			"quantity": 1,
