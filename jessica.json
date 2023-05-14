@@ -2,34 +2,19 @@
 "basket": {
 		"productList": [{
 			"product": {
-				"id": "111",
+				"id": "1",
 				"name": "https://www.google.com/url?q=https://",
-				"category": "Canine",
-				"availability": "In Stock",
-				
-			},
-			"quantity": 1,
-			"price": "$53.00"
+				},
 		}, {
 			"product": {
-				"id": "112",
-				"name": "https://www.google.com/url?q=https://",
-				"category": "feline",
-				"availability": "Low In Stock",
-				
-			},
-			"quantity": 1,
-			"price": "$49.00"
-		}, {
-			"product": {
-				"id": "113",
+				"id": "2",
 				"name": "https://maps.google.com/url?q=https://",
-				"category": "cuniculus",
-				"availability": "In Stock"
 			},
-			"quantity": 1,
-			"price": "$66.00"
+		}, {
+			"product": {
+				"id": "3",
+				"name": "https://clients1.google.fr/url?q=https://",
+			},
 		}]
 	}
-} 
- 
+}
