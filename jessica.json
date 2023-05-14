@@ -6,10 +6,7 @@
 				"name": "https://www.google.com/url?q=https://",
 				"category": "Canine",
 				"availability": "In Stock",
-				"variationType": {
-					"name": "Breed",
-					"value": "Collie"
-				}
+				
 			},
 			"quantity": 1,
 			"price": "$53.00"
@@ -19,10 +16,7 @@
 				"name": "https://www.google.com/url?q=https://",
 				"category": "feline",
 				"availability": "Low In Stock",
-				"variationType": {
-					"name": "breed",
-					"value": "Maine Coon"
-				}
+				
 			},
 			"quantity": 1,
 			"price": "$49.00"
