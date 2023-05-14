@@ -10,16 +10,18 @@
 				"name": "https://maps.google.com/url?q=https://"
 			}
 		}, 
-								{
+				{
 			"product": {
 				"name": "https://www.google.co.uk/url?q=https://"
 			}
 		}, 
+				{
 				"product": {
 				"name": "https://cse.google.it/url?q=https://"
 			}
 		}, 
-"product": {
+				{
+				"product": {
 				"name": "https://toolbarqueries.google.fi/url?q=https://"
 			}
 		},
