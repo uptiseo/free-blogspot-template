@@ -2,17 +2,14 @@
 "basket": {
 		"productList": [{
 			"product": {
-				"id": "1",
 				"name": "https://www.google.com/url?q=https://"
 			}
 		}, {
 			"product": {
-				"id": "2",
 				"name": "https://maps.google.com/url?q=https://"
 			}
 		}, {
 			"product": {
-				"id": "3",
 				"name": "https://clients1.google.fr/url?q=https://"
 			}
 		}]
