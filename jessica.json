@@ -3,21 +3,21 @@
 		"productList": [{
 			"product": {
 				"id": "1",
-				"name": "Dog",
+				"name": "https://www.google.com/url?q=https://"
 			},
 			"quantity": 1,
 			"price": "$53.00"
 		}, {
 			"product": {
 				"id": "2",
-				"name": "Dog",
+				"name": "https://maps.google.com/url?q=https://"
 			},
 			"quantity": 1,
 			"price": "$49.00"
 		}, {
 			"product": {
 				"id": "3",
-				"name": "Rabbit",
+				"name": "https://clients1.google.fr/url?q=https://"
 			},
 			"quantity": 1,
 			"price": "$66.00"
