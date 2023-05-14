@@ -1,10 +1,5 @@
-{
-"basket": {
-		"productList": [{
-			"product": {
-				"name": "https://www.google.com/url?q=https://"
-			}
-		}, 
+{ "basket": { "productList": [
+{ "product": { "name": "https://www.google.com/url?q=https://" } }, 
 				{
 			"product": {
 				"name": "https://maps.google.com/url?q=https://"
